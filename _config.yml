@@ -2,8 +2,7 @@
 title: domen
 
 # Deskripsi situs
-description: Deskripsi singkat tentang situs lo.
-
+description: pengujian
 # URL dasar
 url: https://eternalsya.github.io
 
@@ -15,8 +14,8 @@ theme: minima  # atau tema lain yang lo pilih
 
 # Penulis
 author:
-  name: Nama Penulis
-  email: email@contoh.com
+  name: EternalsYa
+  email: databaseszyn@gmail.com
 
 # Pengaturan lain
 markdown: kramdown
