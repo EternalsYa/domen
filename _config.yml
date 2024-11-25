@@ -1,2 +1,23 @@
-baseurl: /SampleJekyll
-url : https://eternalsya.github.io
+# Nama situs
+title: domen
+
+# Deskripsi situs
+description: Deskripsi singkat tentang situs lo.
+
+# URL dasar
+url: https://eternalsya.github.io
+
+# Base URL (jika perlu, biasanya untuk repositori yang bukan di root)
+baseurl: /domen
+
+# Tema yang digunakan
+theme: minima  # atau tema lain yang lo pilih
+
+# Penulis
+author:
+  name: Nama Penulis
+  email: email@contoh.com
+
+# Pengaturan lain
+markdown: kramdown
+permalink: pretty
